@@ -34,7 +34,7 @@ const Login = () => {
                 <div className="hidden lg:flex w-1/2 bg-blue-700 text-white flex-col justify-center items-center p-12">
                     <ShieldCheck size={100} />
                     <h1 className="text-4xl font-bold mt-4 uppercase">Vision Flow AI</h1>
-                    <p className="text-blue-200 mt-2">Thesis Project by Zul</p>
+                    <p className="text-blue-200 mt-2"> Project by ASTRIKER</p>
                 </div>
                 <div className="w-full lg:w-1/2 flex justify-center items-center p-8">
                     <div className="w-full max-w-md bg-white p-10 rounded-3xl shadow-xl">

@@ -34,3 +34,6 @@ E:\VS Code\Projects\Thesis\SW000\frontend
 
 
 .\venv\Scripts\Activate.ps1
+
+
+git add .
