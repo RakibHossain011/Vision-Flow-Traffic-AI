@@ -30,7 +30,9 @@ http://127.0.0.1:8000/docs#/default/analyze_image_analyze_post
 
 
 
-E:\VS Code\Projects\Thesis\SW000\frontend
+cd "E:\VS Code\Projects\Thesis\SW000\frontend"
+
+cd "E:\VS Code\Projects\Thesis\SW000"  
 
 
 .\venv\Scripts\Activate.ps1
